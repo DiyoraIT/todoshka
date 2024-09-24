@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.input_add{
+    padding: 5px;
+    border-radius: 6px;
+    margin-right: 200px;
+}
+
+.btn_add{
+    padding: 5px 20px;
+    border-radius: 6px;
+}
+
+ol>li>img{
+    height: 30px;
+
+}
+
+
+ol > li {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+    background-color: rgb(56 189 248 / var(--tw-bg-opacity));
+}
+
+ol > li:hover{
+    color: white;
+    transition: 0.4s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
